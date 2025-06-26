@@ -15,7 +15,7 @@ const data = [
     word: 'rewarded',
     prompt: 'The team was ___ for their excellent performance.',
     answer: 'rewarded',
-    hint: 'They received something for doing well.'
+    hint: 'Received something for doing well.'
   },
   {
     word: 'astonishing',
@@ -27,13 +27,13 @@ const data = [
     word: 'devoted',
     prompt: 'She has ___ years of her life to this project.',
     answer: 'devoted',
-    hint: 'Gave time and energy to something important.'
+    hint: 'Gave energy to something important.'
   },
   {
     word: 'failure',
     prompt: 'Sometimes ___ teaches us more than success.',
     answer: 'failure',
-    hint: 'When something does not go as planned.'
+    hint: 'Something does not go as planned.'
   },
   {
     word: 'record',
@@ -45,7 +45,7 @@ const data = [
     word: 'proud',
     prompt: 'The coach felt very ___ of her team.',
     answer: 'proud',
-    hint: 'A happy feeling about a good result.'
+    hint: 'A happy feeling about result.'
   },
   {
     word: 'exceptional',
@@ -57,7 +57,7 @@ const data = [
     word: 'to achieve a goal',
     prompt: 'It takes time and effort ___ like that.',
     answer: 'to achieve a goal',
-    hint: 'To reach something you were working for.'
+    hint: 'Succeed in something.'
   }
 ];
 
